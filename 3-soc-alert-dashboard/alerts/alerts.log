@@ -1,0 +1,9 @@
+ALERT 1: Multiple failed login attempts detected from IP 192.168.0.10 (Severity: High)
+
+ALERT 2: Suspicious file download detected on endpoint PC-01 (Severity: Medium)
+
+ALERT 3: User login from unusual location (Romania → China) (Severity: High)
+
+ALERT 4: Antivirus scan completed successfully (Severity: Low)
+
+ALERT 5: Possible brute force attack on SSH service (Severity: Critical)
