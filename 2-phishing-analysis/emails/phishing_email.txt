@@ -1,0 +1,12 @@
+From: security@paypaI-support.com
+Subject: Urgent: Account Verification Required
+
+Dear user,
+
+Your account has been locked. Please login immediately to verify your identity:
+http://paypal-secure-login.verify-now.ru
+
+Failure to act within 24 hours will result in permanent suspension.
+
+Regards,
+PayPal Security Team
