@@ -1,0 +1,7 @@
+2026-01-01 10:00:01 Failed login attempt user=admin ip=192.168.1.10
+2026-01-01 10:00:05 Failed login attempt user=admin ip=192.168.1.10
+2026-01-01 10:00:10 Failed login attempt user=admin ip=192.168.1.10
+2026-01-01 10:01:00 Successful login user=admin ip=192.168.1.10
+2026-01-01 10:02:00 Failed login attempt user=root ip=192.168.1.11
+2026-01-01 10:02:05 Failed login attempt user=root ip=192.168.1.11
+2026-01-01 10:02:10 Failed login attempt user=root ip=192.168.1.11
